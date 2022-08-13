@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class javaSort <T extends Comparable<T>>implements sort<T> {
+public class javaSort <T extends Comparable<T>>implements Sort<T> {
 
     @Override
     public List<T> sort(List<T> list){
