@@ -1,5 +1,6 @@
 package logic;
 
+import com.logic.javaSort;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
